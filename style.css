@@ -1,0 +1,33 @@
+body {
+    
+    font-family: 'Montserrat', sans-serif;
+    
+    
+    background: #97A5CC;
+background: -webkit-linear-gradient(top left, #97A5CC, #3AF28E);
+background: -moz-linear-gradient(top left, #97A5CC, #3AF28E);
+background: linear-gradient(to bottom right, #97A5CC, #3AF28E);
+}
+ p {
+    font-family: 'Montserrat';
+    font-size: 25px;
+}
+td{
+    width: 300px;
+    height: 200px;
+    
+
+}
+td:hover{
+    -webkit-box-shadow: 0px 2px 15px 1px black;
+    box-shadow: tomato;
+}
+h1{
+    color: aqua;
+}
+
+
+
+        
+    
+    
